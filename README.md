@@ -1,9 +1,9 @@
 # **nnU-Net For PyTorch** ([Original implementation](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/Segmentation/nnUNet))  <!-- omit in toc -->
 
->#### [Multiscale Encoder and Omni-Dimensional Dynamic Convolution Enrichment in nnU-Net for Brain Tumor Segmentation](https://github.com/i-sahajmistry/nnUNet_BraTS2023.git) (To Be Updated!)
-> ##### [Sahaj K. Mistry](https://scholar.google.com/citations?user=54EbWw0AAAAJ&hl=en)
+>#### [Multiscale Encoder and Omni-Dimensional Dynamic Convolution Enrichment in nnU-Net for Brain Tumor Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-76163-8_25) 
+> ##### [Sourav Saini](https://scholar.google.com/citations?hl=en&user=r_NVq3IAAAAJ)
 
-[[Paper]](https://github.com/i-sahajmistry/nnUNet_BraTS2023.git) (To Be Updated!)
+[[ArXiv Version]](https://arxiv.org/abs/2409.13229)
 
 ![teaser](images/image.png)
 
@@ -93,6 +93,13 @@ Scores of modified nnU-Net on testing datasets in Brats 2023 Challenge:
 
 ## **Citation**
 ```
-To Be Updated!
+@incollection{mistry2023multiscale,
+  title={Multiscale Encoder and Omni-Dimensional Dynamic Convolution Enrichment in nnU-Net for Brain Tumor Segmentation},
+  author={Mistry, Sahaj K and Gupta, Aayush and Saini, Sourav and Gupta, Aashray and Rai, Sunny and Jakhetiya, Vinit and Baid, Ujjwal and Guntuku, Sharath Chandra},
+  booktitle={International Challenge on Cross-Modality Domain Adaptation for Medical Image Segmentation},
+  pages={278--290},
+  year={2023},
+  publisher={Springer}
+}
 
 ```
